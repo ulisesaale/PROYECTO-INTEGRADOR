@@ -3,5 +3,6 @@
 # INTEGRANTES
 #
 # Alan Pierola
-# Gaston Ferreyra
+# Candelaria Saint Girons
 # Ulises Ale
+# Agustin Jimenez
